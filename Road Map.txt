@@ -1,0 +1,8 @@
+https://webbook.nist.gov/cgi/cbook.cgi?JCAMP=C100005&Index=0&Type=IR
+This is the link to for downloading files, change the C code with codes in the Excel file
+
+First step is to learn how to use pytorch to train a model
+
+Use python requests to download jcamp files
+
+Use requests to label files
